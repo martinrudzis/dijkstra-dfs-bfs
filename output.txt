@@ -1,0 +1,32 @@
+Testing edge class:
+Passed edge class test
+Testing vertex connect method:
+Passed test
+Testing vertex disconnect method:
+Passed test
+Testing vertex getEdgeWeight method
+Passed test
+Testing vertex getNumberOfNeighbors method:
+Passed test
+Testing vertex getNextNeighbor method:
+2
+3
+4
+Passed test
+Testing vertex equivalency operator:
+Passed test
+Testing vertex less than operator:
+Passed test
+Testing Graph constructor:
+Passed test
+Testing Graph add method:
+Passed test
+Testing Graph getEdgeWeight method:
+Passed test
+Testing Graph readFile method
+Passed test
+testGraph0
+OK: 3 vertices
+OK: 3 edges
+OK: DFS
+OK: BFS
